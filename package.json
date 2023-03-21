@@ -3,10 +3,10 @@
   "displayName": "gum",
   "description": "Chewy",
   "version": "0.0.1",
-  "publisher": "Cherry",
+  "publisher": "CherryGhost",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/robbandi/Cherry-Gum"
   },
   "keywords": [
     "themes",
