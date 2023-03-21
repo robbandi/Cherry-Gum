@@ -1,0 +1,37 @@
+{
+  "name": "gum",
+  "displayName": "gum",
+  "description": "Chewy",
+  "version": "0.0.1",
+  "publisher": "Cherry",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "themes",
+    "gum",
+    "chewy",
+    "cherry",
+    "dark",
+    "vscode",
+    "vscode-theme",
+    "vscode-color-theme",
+    "vscode-theme-color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gum-color-theme.json"
+      }
+    ]
+  }
+}
