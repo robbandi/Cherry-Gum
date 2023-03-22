@@ -35,7 +35,7 @@
     ]
   },
   "icon": {
-    "base": "cher.png",
+    "base": "/Users/persona/Documents/GitHub/Gum/public/cher.png",
     "description": "Icon for Cherry Gum VSCode theme"
   }
 }
