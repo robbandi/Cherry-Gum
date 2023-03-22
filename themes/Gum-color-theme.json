@@ -23,7 +23,7 @@
 		"editor.background": "#171717",
 		"editor.findMatchBackground": "#1F1F1F",
 		"editor.findMatchBorder": "#90D8F0",
-		"editor.findMatchHighlightBackground": "#75ff93",
+		"editor.findMatchHighlightBackground": "#75ff9336",
 		"editor.findMatchHighlightBorder": "#07153fae",
 		"editor.foreground": "#90D8F0",
 		"editor.lineHighlightBackground": "#25252590",
