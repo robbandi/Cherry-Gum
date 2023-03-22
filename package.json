@@ -35,7 +35,7 @@
     ]
   },
   "icon": {
-    "base": "./images/cher.png",
+    "base": "cher.png",
     "description": "Icon for Cherry Gum VSCode theme"
   }
 }
