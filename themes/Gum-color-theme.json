@@ -250,7 +250,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#bfffbb"
+				"foreground": "#4fff90"
 			}
 		},
 		{
@@ -294,7 +294,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#78ffaa"
+				"foreground": "#ddffea"
 			}
 		},
 		{
