@@ -3,7 +3,7 @@
   "displayName": "Cherry Gum",
   "description": "A dark cherry bubblegum theme for VSCode.",
   "icon": "images/cher.png",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "publisher": "RobinBandi",
   "repository": {
     "type": "git",
