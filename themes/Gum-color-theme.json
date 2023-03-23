@@ -134,7 +134,7 @@
 		"scrollbarSlider.activeBackground": "#00000000",
 		"scrollbarSlider.background": "#00000000",
 		"scrollbarSlider.hoverBackground": "#00000000",
-		"selection.background": "#90D8F0",
+		"selection.background": "#393939",
 		"settings.checkboxBackground": "#1F1F1F",
 		"settings.checkboxForeground": "#e4f8ff",
 		"settings.dropdownBackground": "#1F1F1F",
@@ -260,17 +260,20 @@
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#ff6db1"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
+				"keyword.other.template",
+				"keyword.other.substitution",
+				"meta.tag",
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
